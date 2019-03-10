@@ -1,0 +1,13 @@
+# unity
+_Builds/
+_Complete-Game/
+Temp/
+Library/
+obj/
+
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
